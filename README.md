@@ -1,9 +1,9 @@
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. 
 
 ---
-
+<!-- Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates. -->
 <p align="center">
   <a href=https://bit.ly/3FGD1oV>
     <img src="images/collab/codestudio-logo.svg" alt="Codestudio Logo">
